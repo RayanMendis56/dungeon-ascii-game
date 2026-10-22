@@ -119,7 +119,7 @@ valgrind --leak-check=full ./dungeon map.txt
 
 1. 📋 **Clone** the repository:
    ```
-   git clone https://github.com/YOUR-USERNAME/dungeon-ascii-game.git
+   git clone https://github.com/RayanMendis56/dungeon-ascii-game.git
    ```
 2. 📂 **Open** the project folder:
    ```
