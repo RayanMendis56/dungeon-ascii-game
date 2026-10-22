@@ -1,0 +1,7 @@
+# build output
+dungeon
+*.o
+
+# editor and OS files
+.DS_Store
+.vscode/
